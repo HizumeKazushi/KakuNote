@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/HizumeKazushi/KakuNote/backend
 
 go 1.25.0
 
